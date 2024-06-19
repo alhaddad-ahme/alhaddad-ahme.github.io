@@ -1,11 +1,14 @@
 {
-    "name": "food_app",
+    "name": "Ahmed Al-Haddad",
     "short_name": "food_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Mobile and Web Developer
++3 years of experience
+I provide mobile application and website design services from scratch
+",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
